@@ -1,5 +1,6 @@
 # snAPI-File
-A simple PHP REST API to access data files in the filesystem
+
+A simple PHP REST API to access data stored in the filesystem
 
 ## Purpose
 
