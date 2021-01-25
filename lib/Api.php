@@ -2,9 +2,6 @@
 
 namespace SnapiFile;
 
-require_once 'Error.php';
-require_once 'Store.php';
-
 class Api {
   private $file;
   private $storeName;

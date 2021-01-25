@@ -1,0 +1,33 @@
+{
+    "name": "brannonh/snapi-file",
+    "description": "A simple PHP REST API to access data stored in the filesystem",
+    "homepage": "https://github.com/brannonh/snapi-file",
+    "keywords": ["rest", "api", "filesystem", "files", "json", "data", "simple", "fs"],
+    "readme": "README.md",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brannon Hall",
+            "email": "brannonh.dev@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/brannonh/snapi-file/issues",
+        "source": "https://github.com/brannonh/snapi-file"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/brannonh"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SnapiFile\\": "lib/"
+        }
+    },
+    "require": {}
+}
